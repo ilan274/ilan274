@@ -7,12 +7,12 @@
 
 #### :hugs: About me :grimacing:
 I am Ilan Herbach, a 25yo man from São Paulo (Brazil).
-Currently I study 12hs+ a day to become a Full Stack Software Developer :)
+Currently, I study 12hs+ a day to become a Full Stack Software Developer :)
 
-:thinking: Descovering new technologies on a daily basis<br/>
-:hammer_and_pick:	At the my focus is building REST API with NodeJS & ExpressJS<br/>
+:hammer_and_pick:	At the moment my focus is building REST API with NodeJS & ExpressJS<br/>
 :seedling: Learning Dart & Flutter for a side project (:shushing_face:)<br/>
 :man_student: Studying Computer Science at Paulista University (São Paulo/Brazil)
+:thinking: Descovering new technologies on a daily basis<br/>
 
 ------------
 
