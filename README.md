@@ -8,17 +8,16 @@
 **I am Ilan Herbach, a 25yo man from São Paulo (Brazil). Currently I study 12hs+ a day to become a Full Stack Software Developer :)**
 
 ### Programming Languages (& tools)
-
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=javascript&logoColor=white&color=3C873A)
-![](https://img.shields.io/badge/Code-ExpressJS-informational?style=flat&logo=javascript&logoColor=white&color=3C873A)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=f9ab0f)
-![](https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=react&logoColor=white&color=60daf8)
-![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=54C5F8)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=4db33d)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=F29111)
-![](https://img.shields.io/badge/Shell-ZSH-informational?style=flat&logo=gnu-bash&logoColor=white&color=green)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)<br/>
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=&logoColor=white&color=blue)<br/>
+![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=javascript&logoColor=white&color=3C873A)<br/>
+![](https://img.shields.io/badge/Code-ExpressJS-informational?style=flat&logo=javascript&logoColor=white&color=3C873A)<br/>
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=f9ab0f)<br/>
+![](https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=react&logoColor=white&color=60daf8)<br/>
+![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=54C5F8)<br/>
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=4db33d)<br/>
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=F29111)<br/>
+![](https://img.shields.io/badge/Shell-ZSH-informational?style=flat&logo=gnu-bash&logoColor=white&color=green)<br/>
 
 ### GitHub Stats
 
