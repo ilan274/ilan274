@@ -4,7 +4,7 @@
 
 #### It's nice to have you on board :)
 
-![]('./')
+![](https://lh5.googleusercontent.com/KUEMbSsVFCRASXA-KCJiog29P11A03GOCuPPoH2w4Dy7r_UkUfwEPUIj9gNteNw8XK7y7e5M69930A=w1366-h671)
 
 **I am Ilan Herbach, a 25yo man from São Paulo (Brazil). Currently I study 12hs+ a day to become a Full Stack Software Developer :)**
 
