@@ -4,7 +4,7 @@
 
 #### It's nice to have you on board :)
 
-![](https://media.tenor.com/images/f4c8059e75d21aa301174d4374ec4680/tenor.gif)
+![]('./')
 
 **I am Ilan Herbach, a 25yo man from São Paulo (Brazil). Currently I study 12hs+ a day to become a Full Stack Software Developer :)**
 
@@ -23,8 +23,7 @@
 
 ### GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilan274&bg_color=0A0F0B&text_color=fff&title_color=99BC1A)](https://github.com/ilan274/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilan274&bg_color=0A0F0B&text_color=fff&title_color=99BC1A)](https://github.com/ilan274/)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ilan274&show_icons=true&theme=merko&text_color=fff)
 
-**Find me on [![](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0e76a8)](https://www.linkedin.com/in/ilan-herbach/) || [![](https://img.shields.io/badge/Instagram-informational?style=flat&logo=instagram&logoColor=white&color=DD2A7B)](https://www.instagram.com/ilan.herbach/)
-**
+**Find me on**[![](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0e76a8)](https://www.linkedin.com/in/ilan-herbach/) **||** [![](https://img.shields.io/badge/Instagram-informational?style=flat&logo=instagram&logoColor=white&color=DD2A7B)](https://www.instagram.com/ilan.herbach/)
