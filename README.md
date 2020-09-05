@@ -1,6 +1,5 @@
 ### Hello, `coder` || Tech Recruiter human :vulcan_salute:
 [![](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0e76a8)](https://www.linkedin.com/in/ilan-herbach/) [![](https://img.shields.io/badge/Instagram-informational?style=flat&logo=instagram&logoColor=white&color=DD2A7B)](https://www.instagram.com/ilan.herbach/)
-
 #### It's nice to have you on board :)
 ![](https://raw.githubusercontent.com/ilan274/ilan274/master/happy.gif)
 
@@ -10,10 +9,10 @@
 I am Ilan Herbach, a 25yo man from São Paulo (Brazil).
 Currently I study 12hs+ a day to become a Full Stack Software Developer :)
 
-:thinking: Descovering new technologies on a daily basis
-:study:
-:hammer_and_pick:	At the my focus is building REST API with NodeJS & ExpressJS
-:seedling: Studying Dart & Flutter for a side project (:shushing_face:)
+:thinking: Descovering new technologies on a daily basis<br/>
+:hammer_and_pick:	At the my focus is building REST API with NodeJS & ExpressJS<br/>
+:seedling: Learning Dart & Flutter for a side project (:shushing_face:)<br/>
+:man_student: Studying Computer Science at Paulista University (São Paulo/Brazil)
 
 ------------
 
