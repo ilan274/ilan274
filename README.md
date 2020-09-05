@@ -3,8 +3,7 @@
 :raising_hand_man:
 
 #### It's nice to have you on board :)
-
-![](happy.gif)
+![](https://raw.githubusercontent.com/ilan274/ilan274/master/happy.gif)
 
 **I am Ilan Herbach, a 25yo man from São Paulo (Brazil). Currently I study 12hs+ a day to become a Full Stack Software Developer :)**
 
