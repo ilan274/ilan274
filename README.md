@@ -33,4 +33,4 @@ Currently, I study 12hs+ a day to become a Full Stack Software Developer :)
 ### GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilan274&bg_color=0A0F0B&text_color=fff&title_color=99BC1A)](https://github.com/ilan274/)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ilan274&show_icons=true&theme=merko&text_color=fff&count_private=true)
+![ilan274's github stats](https://github-readme-stats.vercel.app/api?username=ilan274&show_icons=true&theme=merko&text_color=fff&count_private=true)
