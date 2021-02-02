@@ -7,7 +7,7 @@
 
 #### :hugs: About me :grimacing:
 I am Ilan Herbach, a 25yo man from São Paulo (Brazil).</br>
-Currently, I study 12hs+ a day to become a Full Stack Software Developer :)
+Currently, I work at Sambatech as a Back-end developer :)
 
 :hammer_and_pick:	At the moment my focus is building REST API with NodeJS & ExpressJS<br/>
 :seedling: Learning Dart & Flutter for a side project (:shushing_face:)<br/>
